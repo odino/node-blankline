@@ -1,5 +1,7 @@
 # node-blankline
 
+[![Build Status](https://travis-ci.org/odino/node-blankline.svg?branch=master)](https://travis-ci.org/odino/node-blankline)
+
 > Because blanklines matter.
 
 If you wrote code without `node-blankline`, now you will
