@@ -4,7 +4,7 @@
   "description": "Because blanklines matter.",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "scripts": {
     "test": "mocha"
