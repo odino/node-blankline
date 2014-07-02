@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/odino/blankline"
+    "url": "https://github.com/odino/node-blankline"
   },
   "keywords": [
     "blankline",
@@ -22,7 +22,7 @@
   "author": "odino <alessandro.nadalin@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/odino/blankline/issues"
+    "url": "https://github.com/odino/node-blankline/issues"
   },
-  "homepage": "https://github.com/odino/blankline"
+  "homepage": "https://github.com/odino/node-blankline"
 }
